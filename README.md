@@ -1,3 +1,7 @@
+This repository is outdated and should no longer be used 
+========================================================
+The up to date version is https://github.com/cybercommons/cybercommons.git
+
 Cybercommons Cookiecutter
 ========================
 
